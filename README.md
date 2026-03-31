@@ -19,7 +19,8 @@ This `.zshrc` is focused on fast daily workflow at 42: compiling C projects, che
 	`cp ~/.zshrc ~/.zshrc.backup`
 2. Copy this project config:
 	`cp .zshrc ~/.zshrc`
-3. Apply changes & Restart shell:
+3. Follow the instructions in the `.zshrc`
+5. Apply changes & Restart shell:
 	`source ~/.zshrc`
 
 ## Notes for 42 Students
